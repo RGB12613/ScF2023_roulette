@@ -20,7 +20,7 @@ const group_name = [
     "水泳部",
     "茶道部",
     "D：Jack",
-    "gl!tch5",
+    "Gl!tch5",
     "WORM",
     "Le verre",
     "Tour de Food",
